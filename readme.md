@@ -1,4 +1,4 @@
-# 🐧 Linux User Management Script
+# 🐧 Cloud-ready-user-management
 
 ## 📌 Project Overview
 This project is a **menu-driven Bash script** that automates common **Linux user management** tasks.  
@@ -35,5 +35,6 @@ This project demonstrates:
 - chmod +x file_name
 - ./file_name
 - choose the option and work with it
+
 
 
