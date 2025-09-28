@@ -4,6 +4,8 @@
 This project is a **menu-driven Bash script** that automates common **Linux user management** tasks.  
 It is designed to help **system administrators** and **Cloud Support Associates** manage users on Linux servers more efficiently.
 
+![image alt](https://github.com/irfan123-mohammed/cloud-ready-user-management/blob/05a0e096c6311102b0d53670ef2cb5789b809fdd/Screenshot%202025-09-26%20164012.png)
+
 With this script, you can:
 - ✅ Create new users with passwords  
 - ✅ Assign users to existing groups  
@@ -33,4 +35,5 @@ This project demonstrates:
 - chmod +x file_name
 - ./file_name
 - choose the option and work with it
+
 
