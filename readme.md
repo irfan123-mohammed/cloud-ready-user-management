@@ -26,7 +26,11 @@ This project demonstrates:
 - Strong **Linux administration** skills  
 - Knowledge of **Bash scripting & automation**  
 - Awareness of **security best practices** (root check, password handling, confirmation prompts)  
-IMPLEMENTATION:
-chmod +x file_name
-./file_name
-choose the option and work with it
+
+
+
+##IMPLEMENTATION:
+- chmod +x file_name
+- ./file_name
+- choose the option and work with it
+
